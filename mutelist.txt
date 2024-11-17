@@ -72,3 +72,5 @@ vivek
 DOGE
 Government Efficiency
 crypto
+Tulsi
+ChatGPT
